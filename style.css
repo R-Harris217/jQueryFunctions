@@ -1,0 +1,40 @@
+#slide {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: none;
+}
+#hide {
+    color: green;
+}
+#toggle {
+    color:blue;
+}
+h3 {
+    color:red;
+}
+#fade {
+    width: 200px;
+    height: 150px;
+    background-color: indianred;
+    display: none;
+}
+#before {
+    color:indigo;
+}
+#ttime {
+    color:lawngreen;
+    background-color: black;
+    display: inline-block;
+}
+#html {
+    color:mediumslateblue;
+}
+#box {
+    height: 300px;
+    width: 300px;
+    background-color: midnightblue;
+    border-style: solid;
+    border-color: orange;
+    margin-bottom: 30px;
+}
